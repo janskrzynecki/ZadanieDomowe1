@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ZadanieDomowe1</string>
+    <string name="change_sound">CHANGE SOUND</string>
+    <string name="change_contact">CHANGE CONTACT</string>
+    <string name="ok">OK</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="wybierz_kontakt_i_przypisz_do_niego_d_wi_k">Wybierz kontakt i przypisz do niego dźwięk!</string>
+
+    <string-array name="contacts">
+        <item>QWRhbSBBZGFtaWFr</item>
+        <item>QWRyaWFuIEFkYW1pYWs=</item>
+        <item>QWxiZXJ0IEFkYW1pYWs=</item>
+        <item>QWxkb25hIEFkYW1pYWs=</item>
+        <item>QWxla3NhbmRyYSBBZGFtaWFr</item>
+    </string-array>
+
+    <string-array name="sounds">
+        <item>Sound 1</item>
+        <item>Sound 2</item>
+        <item>Sound 3</item>
+        <item>Sound 4</item>
+        <item>Sound 5</item>
+    </string-array>
+</resources>
